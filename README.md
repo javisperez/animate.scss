@@ -1,5 +1,7 @@
 # Animate.scss
 
+**NOTE**: This is a custom fork, to extend the original Animate.scss package according to my own needs
+
 This is a port of Dan Eden's [Animate.css](http://daneden.github.io/animate.css/) for SASS.
 
 ## Doesn't this already exist somewhere else?

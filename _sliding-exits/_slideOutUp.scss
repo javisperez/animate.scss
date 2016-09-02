@@ -4,7 +4,7 @@
   }
 	100% {
   	opacity: 0;
-  	@include transform(translateY(-2000px));
+  	@include transform(translateY(-100%));
   }
 }
 
